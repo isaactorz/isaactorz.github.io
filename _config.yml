@@ -1,8 +1,23 @@
 
-# Build settings
 theme: minima
+
 plugins:
   - jekyll-feed
 
+title: '@isaactorz'
+
+author:
+  name: Isaac Torres
+  email: isaac@isaactorz.dev
+
+description: >-
+  Mere mortal, Albuquerque, NM. This is where I pontificate on
+  software development and share cool things I'm hacking on.
+
 minima:
   skin: dark
+
+  social_links:
+    twitter: isaactorz
+    github: isaactorz
+    linkedin: isaactorz505

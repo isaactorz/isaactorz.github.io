@@ -7,7 +7,7 @@ gem "webrick", "~> 1.7"
 
 gem "jekyll", "~> 4.2.0"
 
-gem "minima", git: "https://github.com/jekyll/minima"
+gem "minima", git: "https://github.com/jekyll/minima", :ref => '3cdd14d'
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
